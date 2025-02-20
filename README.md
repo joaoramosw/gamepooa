@@ -46,7 +46,7 @@ Java JDK: É necessário ter o Java Development Kit (JDK) instalado para compila
 
 ## Autores
 
-- [@joaoramosty](https://www.github.com/joaoramosty)
+- [@joaoramosty](https://www.github.com/joaoramosw)
 
 
 ## Etiquetas
