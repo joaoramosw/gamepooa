@@ -1,18 +1,5 @@
 Jogo Feito com conceitos de Programação orientada a objeto avançado
 
-Estrutura do Repositório
-src/: Contém os arquivos Java com as implementações de cada questão.
-ListaEncadeada.java: Implementação de uma lista encadeada e operações associadas.
-Pilha.java: Implementação de uma pilha com operações básicas (push, pop, peek).
-ArvoreBinaria.java: Implementação de uma árvore binária e métodos de percurso.
-Ordenacao.java: Métodos de ordenação (como Bubble Sort, Quick Sort) aplicados em arrays.
-Tópicos Abordados
-Listas Encadeadas: Operações básicas, inserção e remoção de elementos.
-Pilhas e Filas: Implementação de pilha (LIFO) e fila (FIFO).
-Árvores Binárias: Criação, inserção, remoção e percursos (in-order, pre-order, post-order).
-Algoritmos de Ordenação: Implementações de Bubble Sort, Quick Sort e Selection Sort.
-Busca em Estrutura de Dados: Busca linear e binária.
-
 Contribuições
 Sinta-se à vontade para abrir issues ou enviar pull requests caso tenha melhorias ou novas soluções para as questões!
 
@@ -31,7 +18,7 @@ Este projeto está licenciado sob a MIT License.
 Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/usuario/repo-prova-estrutura-dados.git
+git clone https://github.com/joaoramosw/gamepooa.git
 Navegue até a pasta do repositório:
 bash
 Copiar código
