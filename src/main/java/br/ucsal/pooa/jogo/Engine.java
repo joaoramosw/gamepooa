@@ -13,12 +13,16 @@ public class Engine {
 		this.p2 = p2;
 	}
 
+	
+
 
 
 	public void lutar() {
 		Personagem ataque = this.p1;
 		Personagem defesa = this.p2;
 		Personagem change;
+		
+		
 		
 		while (p1.getVida()>0 && p2.getVida()>0) {
 			Integer dano = (ataque.getAtaque()-defesa.getDefesa());
