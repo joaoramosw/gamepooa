@@ -7,7 +7,7 @@ public class Main {
 		//Criar 2 personagens
 		Personagem guerreiro = new Personagem(100, 8, 12);
 		Personagem mago = new Personagem(100, 5, 18);
-		//Criar a engine colocar eles para lutar 
+		//Criar a engine colocar eles para lutar =
 		Engine engine = new Engine(guerreiro, mago);
 		engine.lutar();
 		
