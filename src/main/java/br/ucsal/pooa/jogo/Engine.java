@@ -4,13 +4,14 @@ public class Engine {
 
 	private Personagem p1;
 	private Personagem p2;
-	
+	private Personagem p3;
 	
 	
 	public Engine(Personagem p1, Personagem p2) {
 		super();
 		this.p1 = p1;
 		this.p2 = p2;
+		this.p3 = p3;
 	}
 
 	
